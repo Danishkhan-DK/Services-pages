@@ -1,0 +1,7 @@
+#customer-center{
+    top: 45%;
+}
+
+#customer-center:hover{
+    cursor: pointer;
+}
